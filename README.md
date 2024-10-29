@@ -54,7 +54,7 @@ This demo is built with
         Username: `mike-01@test.com` Password: `Stripe1!`
         Username: `lisa-01@test.com` Password: `Stripe1!`
 
-    Note: Login page currently doesn't redirect you automatically after the successful auth. I'm currently working on to fix this bug. Once you hit the login button, please manually access the admin page using the link [http://merchantmatey-new.vercel.app/dashboard] for time being.
+    Note: Login page currently doesn't redirect you automatically after the successful auth. I'm currently working on to fix this bug. Once you hit the login button, please manually access the admin page using the link [https://merchantmatey-new.vercel.app/dashboard] for time being.
 
 3. Registration Page-
 
@@ -63,7 +63,7 @@ This demo is built with
 
 4. Admin Page - 
 
-    To access the Merchant Dashboard page, navigate to [http://merchantmatey-new.vercel.app/dashboard]
+    To access the Merchant Dashboard page, navigate to [https://merchantmatey-new.vercel.app/dashboard]
 
 
 
